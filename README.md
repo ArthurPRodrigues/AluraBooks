@@ -6,3 +6,7 @@
 * CSS
 * Javascript
 * VScode
+
+<h1>Anotações do projeto</h1>
+
+<p>https://www.notion.so/CONSUMINDO-DADOS-DE-UMA-API-JAVASCRIPT-57fb2a55fcb14639ba6b045e5f59f029?pvs=4</p>
