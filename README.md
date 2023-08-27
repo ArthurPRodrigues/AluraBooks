@@ -9,4 +9,4 @@
 
 <h1><a href="https://tree-sorrel-518.notion.site/CONSUMINDO-DADOS-DE-UMA-API-JAVASCRIPT-57fb2a55fcb14639ba6b045e5f59f029">Anotações do Curso</a></h1>
 
-Nesse link estão minha anotações sobre o curso de JavaScript: consumindo e tratando dados de uma API da Alura.
+No link acima estão minhas anotações sobre o curso de JavaScript: consumindo e tratando dados de uma API da Alura.
